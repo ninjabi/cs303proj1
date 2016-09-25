@@ -1,3 +1,8 @@
+/*
+Name: Hamza Chaudhry, Fatima Mohamed, Niloofar Oliaei
+Description:
+
+*/
 #include <iostream>
 #include <string>
 #include <algorithm>
